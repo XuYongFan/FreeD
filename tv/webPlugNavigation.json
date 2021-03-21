@@ -119,6 +119,127 @@
       }
     },
 
+  {
+      "name": "티비국",
+      "pic": "https://img.mu688.cn:4443/banner/upload/2021-02-26/1614303893.jpg",
+      "type": "webPlug",
+      "subTitle": "한국티비",
+      "subMobileTitle": "한국티비",
+      "ads": "",
+      "webUrl": "https://www.tvgook58.com",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.shenma4480.com/search/-------------.html?wd=",
+        "nav_url": "https://www.tvgook58.com/vod-list-id-navCate-pg-navPage-order--by--class--year--letter--area--lang-.html",
+        "cate_url": https://www.tvgook58.com/vod-list-id-2-pg-2-order--by--class--year--letter--area--lang-.html",
+        "web_name": "티비국",
+        "kw": "wd",
+        "params": [
+          {
+            "key": "key",
+            "value": "value"
+          }
+        ],
+        "navHtml": {
+          "name": [
+            "드라마",
+            "예능",
+            "영화",
+            "시사",
+            "음악"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "17",
+            "3i",
+            "4"
+          ],
+          "page": "1"
+        },
+        "cateHtml": {},
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "isReg": false,
+            "isRegNeedDecoder": false,
+            "listCss": "ul > li",
+            "isMultiList": false,
+            "listCssMulti": "",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.body",
+            "mainIndex": 0,
+            "regIndexList": [
+              0
+            ],
+            "regItemIndex": 0,
+            "regItemStr": "",
+            "regSplitList": [
+              ""
+            ],
+            "regStrList": [
+              ""
+            ]
+          },
+          "nav": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "p.date",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "src",
+            "imgCss": "img.img",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.list",
+            "mainListIndex": 0,
+            "nameAttr": "p.tit",
+            "nameCss": "div.bg",
+            "nameIndex": 0,
+            "searchListCss": "ul > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "isKWInUrl": false,
+            "isWebPlay": false,
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasImgUrlPrefix": true,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "div.stui-pannel.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "ul.stui-vodlist.clearfix > li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "video": {}
+        }
+      }
+    },
+
     {
       "name": "시라지",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
@@ -147,22 +268,22 @@
             "中文",
             "伦理",
             "人妻",
-            "女同",
-            "丝袜",
+            "独家",
+            "制服",
             "强奸",
             "师生"
           ],
           "cate": [
-            "2",
-            "1",
-            "3",
             "16",
+            "1",
+            "2",
+            "3",
             "18",
-            "19",
-            "24",
-            "21",
             "22",
-            "23"
+            "23",
+            "20",
+            "18",
+            "21"
           ],
           "page": "1"
         },
@@ -180,13 +301,13 @@
             "isListItemAttr": true,
             "isReg": false,
             "isRegNeedDecoder": false,
-            "listCss": "ul > ul > li",
+            "listCss": "a",
             "isMultiList": false,
             "listCssMulti": "",
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.film_bar.clearfix",
+            "mainCss": "div.actress",
             "mainIndex": 0,
             "regIndexList": [
               0
@@ -204,7 +325,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "span.pink-txt.ng-binding",
+            "descCss": "",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "hasImgUrlPrefix": true,
@@ -215,7 +336,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.entry.entry1",
+            "mainCss": "ul.list.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "img",
