@@ -123,8 +123,8 @@
       "name": "티비국",
       "pic": "https://img.mu688.cn:4443/banner/upload/2021-02-26/1614303893.jpg",
       "type": "webPlug",
-      "subTitle": "한국티비",
-      "subMobileTitle": "한국티비",
+      "subTitle": "韩国",
+      "subMobileTitle": "韩国",
       "ads": "",
       "webUrl": "https://www.tvgook58.com",
       "webOpen": false,
@@ -248,6 +248,7 @@
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
       "click": true,
+      "webOpen": false,
       "webPlus": {
         "search_url": "http://xirajitv23.com/index.php/vod_search.html?wd={kw}",
         "nav_url": "http://zhbxsj.com/?m=vod-type-id-navCate-pg-navPage.html",
