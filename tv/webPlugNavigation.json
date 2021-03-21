@@ -203,7 +203,7 @@
             "mainCss": "div.list",
             "mainListIndex": 0,
             "nameAttr": "",
-            "nameCss": "p.tit",
+            "nameCss": "a > p.tit",
             "nameIndex": 0,
             "searchListCss": "ul > li",
             "urlAttr": "href",
