@@ -204,7 +204,7 @@
             "isKWInUrl": false,
             "isWebPlay": false,
             "descAttr": "",
-            "descCss": "",
+            "descCss": "span.pink-txt.ng-binding",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "hasImgUrlPrefix": true,
